@@ -91,3 +91,5 @@ I will call lightmap build computer as remote, and lightmap build request comput
 > and now you can execute lightmap build command on your remote computer without touch.<br>
 >
 > **Attention! You must execute cmd as an Administrator on your client computer too.**
+
+if you don't need to know lightmap build is over just change **-i** to **-d** on command in batch file.
